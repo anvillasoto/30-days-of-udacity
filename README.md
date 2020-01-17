@@ -1,3 +1,16 @@
+D03:
+----------
+Finished Lesson 2: Leveraging Pre-Trained Models
+
+Here comes another good news. I applied last year to Bertelsmann Tech Scholarship Cloud Track. I got a rejection letter. But a month later, I got a confirmation that they opened slots for additional students and I got in. There are so many things to learn in a couple of opportunities that opened for me from Intel, Facebook and Bertelsmann. This year started with lots of surprises. I am willing to take the challenge. 
+
+![bertelsmann](./images/bertelsmann.png)
+
+https://github.com/anvillasoto/30-days-of-udacity#D03
+
+&#35;30DaysofUdacity
+
+
 D02:
 ----------
 Finished Lesson 1: Introduction to AI at the Edge
