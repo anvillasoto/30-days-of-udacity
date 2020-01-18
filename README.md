@@ -1,3 +1,16 @@
+D04:
+----------
+Finished half of lesson 3: The Model Optimizer. This is getting really technical. I hope I can finish the whole module tomorrow. 
+
+Another good news for me. I received my Acclaim Badge for Advanced Data Science Specialist that I acquired from finishing all the four courses in the Advanced Data Science with IBM Specialization on Coursera.
+
+![advanced data science specialist](./images/advanced_data_science_specialist.png)
+
+https://github.com/anvillasoto/30-days-of-udacity#D03
+
+&#35;30DaysofUdacity
+
+
 D03:
 ----------
 Finished Lesson 2: Leveraging Pre-Trained Models
