@@ -7,9 +7,9 @@ Milestones:
 
 ![meeting 1](./images/meeting_1.png)
 
-![meeting 2](./images/meeting_2.png)
+![meeting 2](./images/meeting_2.jpg)
 
-![meeting 3](./images/meeting_3.png)
+![meeting 3](./images/meeting_3.jpg)
 
 https://github.com/anvillasoto/30-days-of-udacity#D05
 
