@@ -1,3 +1,20 @@
+D05:
+----------
+
+Milestones:
+1. Finished the second half of lesson 3: The Model Optimizer. This is a lot for me to take in so I probably need to review this lesson once more before going to lesson 4.
+2. Attended my first meeting for this challenge with my fellow #sg_spaic classmates. We talked about several project ideas as well as community initiatives.
+
+![meeting 1](./images/meeting_1.png)
+
+![meeting 2](./images/meeting_2.png)
+
+![meeting 3](./images/meeting_3.png)
+
+https://github.com/anvillasoto/30-days-of-udacity#D05
+
+&#35;30DaysofUdacity
+
 D04:
 ----------
 Finished half of lesson 3: The Model Optimizer. This is getting really technical. I hope I can finish the whole module tomorrow. 
