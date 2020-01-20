@@ -1,3 +1,15 @@
+D06:
+----------
+
+Milestones:
+1. Rewatched the videos from Lesson 3: The Model Optimizer and implemented again the exercises from it. 
+2. Read the article from Towards Data Science Medium post entitled [What is the Best Programming Language for Machine Learning?](https://towardsdatascience.com/what-is-the-best-programming-language-for-machine-learning-a745c156d6b7). As a JavaScript developer by profession, I am surprised that a significant amount of professionals use JS to their daily ML tasks. Although most of my trainings for AI and ML are in Python, I am really excited to be in a programming language-agnostic world since as the article would say, there is no best programming language for AI. That, like any other CS problems to solve, depends on the use case.
+
+https://github.com/anvillasoto/30-days-of-udacity#D06
+
+&#35;30DaysofUdacity
+
+
 D05:
 ----------
 
