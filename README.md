@@ -1,3 +1,15 @@
+D07:
+----------
+
+Finished the first half of Lesson 4: The Inference Engine. Topics that I came across with include the Inference Engine overview, supported devices (luckily all Intel hardware), Connecting Inference Engine with Intermediate Representation and Sending inference requests synchronously and asynchronously. 
+
+I am mostly excited with these topics because this is where we start seeing how the model spits out predictions. I am really looking forward to the rest of the chapter videos and exercises.
+
+https://github.com/anvillasoto/30-days-of-udacity#D07
+
+&#35;30DaysofUdacity
+
+
 D06:
 ----------
 
