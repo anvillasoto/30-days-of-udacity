@@ -1,3 +1,19 @@
+D08:
+----------
+
+Finished the second half of lesson 4: The Inference Engine. Will need another pass for this lesson before proceeding to lesson 5.
+
+Here comes another good news. Yesterday, I participated in motivational stories initiative posted on the motivations channel. I was actually tagged by one of my active fellow scholar in her really amazing motivational story that I compelled to share mine. It is later today that I realized that something weird happened due to numerous mentions and direct messages I received. I realized that my story, of all equally motivating ones was featured in the announcements channel. 
+
+![motivation](./images/motivation.png)
+
+This is totally unexpected. To the people who appreciated my story, thank you.
+
+https://github.com/anvillasoto/30-days-of-udacity#D08
+
+&#35;30DaysofUdacity
+
+
 D07:
 ----------
 
