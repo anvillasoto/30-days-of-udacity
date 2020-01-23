@@ -1,3 +1,15 @@
+D09:
+----------
+
+Run through lesson 4: The Inference again tor reinforce the knowledge. But I did not quite get the inference project. Hope I could get it done tomorrow.
+
+![inference_engine_finished](./images/inference_engine_finished.png)
+
+https://github.com/anvillasoto/30-days-of-udacity#D09
+
+&#35;30DaysofUdacity
+
+
 D08:
 ----------
 
