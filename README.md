@@ -1,3 +1,13 @@
+D10:
+----------
+
+This marks the 10th day of the challenge. Watched videos from lesson 5: Deploying an Edge App. Project is challenging so I probably need to explore it on another day. 
+
+https://github.com/anvillasoto/30-days-of-udacity#D09
+
+&#35;30DaysofUdacity
+
+
 D09:
 ----------
 
