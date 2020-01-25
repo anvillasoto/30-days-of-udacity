@@ -1,9 +1,28 @@
+D11:
+----------
+
+Milestones:
+
+1. This marks the 11th day. I officially finished the course. Will focus on projects now.
+
+![certificate](./images/certificate.jpg)
+
+2. Participated in the weekly meeting initiative of #sg_spaic.
+
+![meeting](./images/second_meeting.png)
+
+
+https://github.com/anvillasoto/30-days-of-udacity#D11
+
+&#35;30DaysofUdacity
+
+
 D10:
 ----------
 
 This marks the 10th day of the challenge. Watched videos from lesson 5: Deploying an Edge App. Project is challenging so I probably need to explore it on another day. 
 
-https://github.com/anvillasoto/30-days-of-udacity#D09
+https://github.com/anvillasoto/30-days-of-udacity#D10
 
 &#35;30DaysofUdacity
 
