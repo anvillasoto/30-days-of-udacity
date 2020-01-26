@@ -1,3 +1,15 @@
+D12:
+----------
+
+Milestones:
+1. Set up environment for PyTorch UNET model for the segmentation model we are exploring. Tried to run it with no luck. Will try again tomorrow.
+2. Read paho-mqtt for working with real-time communication. I explored this using node-red before. It is nice to have a Python alternative.
+
+https://github.com/anvillasoto/30-days-of-udacity#D12
+
+&#35;30DaysofUdacity
+
+
 D11:
 ----------
 
