@@ -1,3 +1,15 @@
+D13:
+----------
+
+Milestone:
+1. Hurrah, after two days of tweaking, I got the PyTorch UNET working as well as a vgg16 model with almost laughable accuracy. Will tweak this on later days. 
+2. Started Introduction to Computer Vision course from Udacity.
+
+https://github.com/anvillasoto/30-days-of-udacity#D13
+
+&#35;30DaysofUdacity
+
+
 D12:
 ----------
 
