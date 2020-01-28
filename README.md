@@ -5,7 +5,7 @@ Milestone:
 1. Explored the pytorch-unet implementation from https://github.com/usuyama/pytorch-unet to be used in Image Segmentation model that I am exploring. Yesterday was a flop so I hope this could be a good one.
 
 
-https://github.com/anvillasoto/30-days-of-udacity#D13
+https://github.com/anvillasoto/30-days-of-udacity#D14
 
 &#35;30DaysofUdacity
 
