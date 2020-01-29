@@ -1,3 +1,16 @@
+D15:
+----------
+
+Milestone:
+1. Finished Lesson 1: 1A-L1 Introduction of Introduction to Computer Vision course. 
+2. Continued on implementing image segmentation model from day 14. Now using a portion of real dataset. Screenshots will come soon. I am not proud of my progress just yet. :D
+
+
+https://github.com/anvillasoto/30-days-of-udacity#D15
+
+&#35;30DaysofUdacity
+
+
 D14:
 ----------
 
