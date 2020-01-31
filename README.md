@@ -1,3 +1,16 @@
+D16:
+----------
+
+Milestone:
+1. Finished Lesson 2: Images as Functions of Introduction to Computer Vision course. 
+2. Continued on implementing image segmentation model from day 14. I rested for one day that is why the implementation has been halted. Will continue this tomorrow. 
+
+https://github.com/anvillasoto/30-days-of-udacity#D16
+
+&#35;30DaysofUdacity
+
+
+
 D15:
 ----------
 
