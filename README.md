@@ -1,3 +1,15 @@
+D17:
+----------
+
+Milestone:
+1. Reviewed Lessons 1 and 2 from Intro to Computer Vision course. 
+2. Continued on implementing image segmentation model from day 14. Data loaders for original images and their masks is a tough one to crack. But I got the PyTorch UNET simulation working with images resized to 190 x 190 (per the repos recommendation).
+
+https://github.com/anvillasoto/30-days-of-udacity#D16
+
+&#35;30DaysofUdacity
+
+
 D16:
 ----------
 
