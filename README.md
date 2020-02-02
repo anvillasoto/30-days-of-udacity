@@ -1,3 +1,15 @@
+D18:
+----------
+
+Milestone: 
+1. Continued on implementing image segmentation model from day 14. I got the trainloader and model working and I got a loss of 0.40 using 10% of the data for training. Generated masks are somehow incomplete. But it is something. Will implement other PyTorch solutions and increase the data size.
+2. This is a late post but I joined in to the second meeting of #sg_spaic.
+
+https://github.com/anvillasoto/30-days-of-udacity#D16
+
+&#35;30DaysofUdacity
+
+
 D17:
 ----------
 
