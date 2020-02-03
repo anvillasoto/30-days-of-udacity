@@ -8,6 +8,11 @@ Milestone:
 
 ![day19_2](./images/day19_2.png)
 
+https://github.com/anvillasoto/30-days-of-udacity#D19
+
+&#35;30DaysofUdacity
+
+
 D18:
 ----------
 
