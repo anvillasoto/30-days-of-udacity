@@ -1,3 +1,13 @@
+D19:
+----------
+
+Milestone: 
+1. With days of tweaking, finally, I somewhat got the model working. With four epochs, mask became more apparent compared to previous attempts. This is really a challenging task. The next thing that I need to do is to train in a larger number of epochs and on a larger dataset.
+
+![day19_1](./images/day19_1.png)
+
+![day19_2](./images/day19_2.png)
+
 D18:
 ----------
 
@@ -5,7 +15,7 @@ Milestone:
 1. Continued on implementing image segmentation model from day 14. I got the trainloader and model working and I got a loss of 0.40 using 10% of the data for training. Generated masks are somehow incomplete. But it is something. Will implement other PyTorch solutions and increase the data size.
 2. This is a late post but I joined in to the second meeting of #sg_spaic.
 
-https://github.com/anvillasoto/30-days-of-udacity#D16
+https://github.com/anvillasoto/30-days-of-udacity#D18
 
 &#35;30DaysofUdacity
 
@@ -17,7 +27,7 @@ Milestone:
 1. Reviewed Lessons 1 and 2 from Intro to Computer Vision course. 
 2. Continued on implementing image segmentation model from day 14. Data loaders for original images and their masks is a tough one to crack. But I got the PyTorch UNET simulation working with images resized to 190 x 190 (per the repos recommendation).
 
-https://github.com/anvillasoto/30-days-of-udacity#D16
+https://github.com/anvillasoto/30-days-of-udacity#D17
 
 &#35;30DaysofUdacity
 
