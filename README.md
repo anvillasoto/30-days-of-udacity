@@ -1,3 +1,15 @@
+D20:
+----------
+
+Milestones: 
+1. Finally, I got the model working for grayscale masks by training the model using 50 epochs. I am now tweaking the model to have exactly three classess the way ground truth masks looked. 
+2. Had a meeting with the LunarX team for the project showcase. And yes guys, we are LunarX. :D
+
+https://github.com/anvillasoto/30-days-of-udacity#D20
+
+&#35;30DaysofUdacity
+
+
 D19:
 ----------
 
