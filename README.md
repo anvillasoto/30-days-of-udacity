@@ -1,3 +1,22 @@
+D21:
+----------
+
+Milestone:
+1. This is really amazing, I got the model working with colored images for cleaned. Will improve this by training my model for more epochs and add additional class so that black class will have its separate color. 
+
+This is a very long day for me. Will continue the task tomorrow.
+
+![day 21 01](./images/day21_01.png)
+
+![day 21 02](./images/day21_02.png)
+
+![day 21 03](./images/day21_03.png)
+
+https://github.com/anvillasoto/30-days-of-udacity#D21
+
+&#35;30DaysofUdacity
+
+
 D20:
 ----------
 
