@@ -1,3 +1,16 @@
+D22:
+----------
+
+Milestone:
+1. Before I convert the model, I am trying combinations of hyperparameters to lower the loss using Adam optimizer and StepLR learning rate decay mechanism.
+2. Setting up ONNX model converter while under training. Hope I could do this later.
+
+https://github.com/anvillasoto/30-days-of-udacity#D22
+
+&#35;30DaysofUdacity
+
+
+
 D21:
 ----------
 
