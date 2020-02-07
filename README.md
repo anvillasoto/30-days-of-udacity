@@ -1,3 +1,15 @@
+D23:
+----------
+
+Milestone:
+1. Still improving the model by tinkering StepLR and Adam hyperparameters as well as increasing the number of epochs. Will do model conversion to OpenVINO after this.
+2. Currently setting up Raspberry Pi device for edge deployment. Hope I could finish this tomorrow.
+
+https://github.com/anvillasoto/30-days-of-udacity#D23
+
+&#35;30DaysofUdacity
+
+
 D22:
 ----------
 
