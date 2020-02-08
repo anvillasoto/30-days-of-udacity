@@ -1,3 +1,18 @@
+D24:
+----------
+
+Milestone:
+1. Successfully installed Raspbian using offline version of NOOBS to my Raspberry Pi 3 Model B. 
+
+![day24](./images/day24.jpg)
+
+2. Still trying to decrease loss from the current model.
+
+https://github.com/anvillasoto/30-days-of-udacity#D23
+
+&#35;30DaysofUdacity
+
+
 D23:
 ----------
 
