@@ -1,3 +1,21 @@
+D25:
+----------
+
+Milestones:
+1. Setup Intel Distribution for OpenVINO toolkit on my laptop. There are many prerequisites and I am on data plan but it went successfully.
+
+![day25 01](./images/day25_01.png)
+
+2. Successfully converted my best model to ONNX model. 
+3. Tried to convert ONNX to OpenVINO using the model optimizer but it somehow failed. The error is straightforward so I will go check it tomorrow.
+
+![day25 02](./images/day25_02.png)
+
+https://github.com/anvillasoto/30-days-of-udacity#D25
+
+&#35;30DaysofUdacity
+
+
 D24:
 ----------
 
@@ -8,7 +26,7 @@ Milestone:
 
 2. Still trying to decrease loss from the current model.
 
-https://github.com/anvillasoto/30-days-of-udacity#D23
+https://github.com/anvillasoto/30-days-of-udacity#D24
 
 &#35;30DaysofUdacity
 
