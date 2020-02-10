@@ -1,3 +1,15 @@
+D26:
+----------
+
+Milestones:
+1. Reading [Registering a Custom Layer as a Model Optimizer Extension](https://docs.openvinotoolkit.org/latest/_docs_MO_DG_prepare_model_customize_model_optimizer_Extending_Model_Optimizer_with_New_Primitives.html) tutorial. With my problem, that is definitely the way to go. Will implement it tomorrow. I hope it is successful.
+2. I probably not going to decrease the loss even more so I probably stop training my model for long.
+
+https://github.com/anvillasoto/30-days-of-udacity#D26
+
+&#35;30DaysofUdacity
+
+
 D25:
 ----------
 
