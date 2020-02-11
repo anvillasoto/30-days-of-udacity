@@ -1,3 +1,16 @@
+D27:
+----------
+
+Milestones:
+1. Implement another model for Image Segmentation. Currently training it for 3 epochs. Will convert .pth to onnx and try using model optimizer. I really hope I could pull this off before 30 days.
+2. Reviewed about model optimizer and inference engine for the previous model that I made. 
+3. Implement new primitive for resize function which is an unknown layer for onnx to MO conversion. 
+
+https://github.com/anvillasoto/30-days-of-udacity#D27
+
+&#35;30DaysofUdacity
+
+
 D26:
 ----------
 
