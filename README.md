@@ -1,3 +1,15 @@
+D28:
+----------
+
+Milestones:
+1. Since it is taking me a long time to implement new primitive for layers that OpenVINO's Model Optimizer don't recognize when converting my initial model, I decided to implement a new model. And it is from [this git repository](https://github.com/grib0ed0v/unet.pytorch). And guess what, it worked! 
+2. Currently it is on training now. I extracted 10% of images to a separate directory to make it work with the existing data loader. Will do model conversion tomorrow. 
+
+https://github.com/anvillasoto/30-days-of-udacity#D28
+
+&#35;30DaysofUdacity
+
+
 D27:
 ----------
 
