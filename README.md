@@ -1,3 +1,15 @@
+D29:
+----------
+
+Milestone:
+1. I realized that I did not include a resize function for image on the data loader that is why my model trains very long. Updating the dataloader. 
+
+
+https://github.com/anvillasoto/30-days-of-udacity#D28
+
+&#35;30DaysofUdacity
+
+
 D28:
 ----------
 
