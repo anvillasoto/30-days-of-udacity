@@ -1,3 +1,17 @@
+D30:
+----------
+
+Milestones:
+1. This is my  30th day. I was on a travel back home so I decided to continue on my Intro to Computer Vision course.
+2. I also watched the [Deep Learning applied to segmentation of artificial moon imagery](https://www.youtube.com/watch?v=pw6Jz4lX2Kc).
+
+I have no progress just yet in the project but I will be back on track tomorrow.
+
+https://github.com/anvillasoto/30-days-of-udacity#D30
+
+&#35;30DaysofUdacity
+
+
 D29:
 ----------
 
@@ -5,7 +19,7 @@ Milestone:
 1. I realized that I did not include a resize function for image on the data loader that is why my model trains very long. Updating the dataloader. 
 
 
-https://github.com/anvillasoto/30-days-of-udacity#D28
+https://github.com/anvillasoto/30-days-of-udacity#D29
 
 &#35;30DaysofUdacity
 
